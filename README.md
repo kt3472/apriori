@@ -1,4 +1,4 @@
-## Purchase data set 연관분석(Association Analysis) 
+## 개인투자자의 ETF 매수 종목 연관분석(Association Analysis) 
 
 **1) Summary**
 - 연관분석은 하나의 거래나 사건에 포함된 항목간의 관련성을 파악하여 둘 이상의 항목들로 구성된 연관성 규칙을 도출하는 분석방법. 개인투자자의 ETF 순매수 데이터를 기반으로 거래의 규칙이나 패턴 도출을 목표
