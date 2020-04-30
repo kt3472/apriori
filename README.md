@@ -16,7 +16,11 @@
 - 3단계 : 연관분석 해석 및 결론
 
 **4) Results**
--  n/a
+
+- 향상도(lift)가 가장높은 거래는 KODEX레버리지 -> TIGER레버리지 거래
+- 지지도, 향상도, 신뢰도가 고루 높은 거래는 KODEX 200 -> KODEX레버리지 거래
+
+  ![dataset](./aa_result_table.jpg)
 
 
 <br>
