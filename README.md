@@ -20,7 +20,7 @@
 - 향상도(lift)가 가장높은 거래는 KODEX레버리지 -> TIGER레버리지 거래
 - 지지도, 향상도, 신뢰도가 고루 높은 거래는 KODEX 200 -> KODEX레버리지 거래
 
-  ![data](./aa_result_table.jpg)
+  ![data](./data/aa_result_table.jpg)
 
 
 <br>
