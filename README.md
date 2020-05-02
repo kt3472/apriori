@@ -26,7 +26,7 @@
 <br>
 
 
-**< appendix >**
+**( appendix )**
 
 - 지지도(support) = A상품과 B상품이 동시에 포함한 거래수 / 전체 거래수
 - 신뢰도(confidence) = 지지도 / A상품을 포함한 거래수
